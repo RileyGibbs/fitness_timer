@@ -1,7 +1,7 @@
 import 'dart:async';
-import 'package:echofi_fitness/styles.dart';
 import 'package:flutter/material.dart';
 import 'models/time_keeper.dart';
+import 'styles.dart';
 import 'lap_list_view.dart';
 
 class Timer extends StatefulWidget {
